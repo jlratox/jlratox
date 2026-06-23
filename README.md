@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Ratox 🏴‍☠️</h1>
+<h1 align="center">Salut, moi c'est Ratox</h1>
 
 <p align="center">
   <b>Fondateur & développeur de <a href="https://bffr.fr">Blox Fruits FR</a></b><br/>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Ce que je construis
+### Ce que je construis
 
 Tout l'écosystème technique de **Blox Fruits FR**, en production et auto-hébergé :
 
@@ -41,13 +41,5 @@ Tout l'écosystème technique de **Blox Fruits FR**, en production et auto-hébe
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white"/>
 </p>
 
-### 📊 Mes stats GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jlratox&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlratox&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-</p>
-
----
-
-<p align="center"><sub>🏴‍☠️ Au service de la communauté Blox Fruits FR.</sub></p>
+<p align="center"><sub> Au service de la communauté Blox Fruits FR.</sub></p>
